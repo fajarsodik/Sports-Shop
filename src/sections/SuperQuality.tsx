@@ -21,8 +21,9 @@ const SuperQuality = () => {
         <p className="mt-6 lg:max-w-lg info-text">
           Our dedication to detail and excelence ensures your satisfaction.
         </p>
-        <div className="mt-11"></div>
-        <Button label="View details" />
+        <div className="mt-11">
+          <Button label="View details" />
+        </div>
       </div>
       <div className="flex flex-1 justify-center items-center">
         <img
